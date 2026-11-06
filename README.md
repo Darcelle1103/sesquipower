@@ -1,8 +1,8 @@
-\# sesquipower
+sesquipower
 
 
 
-An R package to \*\*size the compensation of reactive power\*\* in a single-phase
+An R package to size the compensation of reactive power in a single-phase
 
 domestic electrical installation.
 
@@ -16,7 +16,7 @@ you which capacitors to install to reduce the wasted power.
 
 
 
-\## Why compensate reactive power?
+ Why compensate reactive power?
 
 
 
@@ -26,9 +26,9 @@ two kinds of power:
 
 
 
-\- \*\*active power\*\*, which does the actual work (heat, light, motion);
+- active power, which does the actual work (heat, light, motion);
 
-\- \*\*reactive power\*\*, which does no work but increases the current flowing in
+- reactive power, which does no work but increases the current flowing in
 
 &#x20; the wires.
 
