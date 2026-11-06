@@ -1,0 +1,17 @@
+Package: sesquipower
+Title: Reactive Power Optimization with Hermitian Forms
+Version: 0.0.0.9000
+Authors@R: 
+    person("Johanna", "Ngobo", , "songa_johanna@icloud.com", role = c("aut", "cre"))
+Description: Computes the complex, active, reactive and apparent power of a
+    single-phase domestic installation from the RMS values and phases of
+    voltage and current, using the Hermitian form h(U, I) = U * Conj(I).
+    Converts powers into energies and tariff-based costs, and sizes the
+    capacitors needed to bring the reactive power down to a target value.
+License: MIT + file LICENSE
+Config/roxygen2/version: 8.1.1
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
